@@ -1,0 +1,11 @@
+Debug/
+Release/
+ipch/
+Logs/
+x64/
+*.ncb
+*.exe
+*.opensdf
+*.sdf
+*.suo
+*.ini
